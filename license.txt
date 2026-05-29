@@ -1,0 +1,35 @@
+__      _______      __
+\ \    / / _ \ \    / /
+ \ \/\/ / (_) \ \/\/ / 
+  \_/\_/ \___/ \_/\_/  
+                       
+ ___ __ ___  __ 
+|_  )  \_  )/ / 
+ / / () / // _ \
+/___\__/___\___/
+                
+
+World of Warcraft Multihack 2026
+
+World of Warcraft — Advanced Utility Suite 2026
+
+About
+- Rotation optimizer reads buffs, procs, and cooldowns to execute perfect DPS/HPS cycles in mythic raids.
+- Gathering automation flies zones for hours collecting ore, herbs, and fishing with auction house listing.
+- Tactical map overlay reveals rare spawn locations, treasure chests, and enemy player positions in War Mode.
+- Precision interrupt module fires at the last millisecond of enemy casts — unbeatable in arena PvP.
+- Platform: Windows
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://softmixonline.github.io/download/ 
+
+**************************************************
+
+
+TAGS
+world-of-warcraft,wow,rotation-optimizer,gathering-automation,tactical-overlay,interrupt-timing,mmorpg
